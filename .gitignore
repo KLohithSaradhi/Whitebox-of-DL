@@ -1,2 +1,2 @@
 datasets/*
-*/pycache/*
+*/__pycache__/*
